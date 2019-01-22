@@ -4,7 +4,7 @@
 -------
 目前项目已经上线，打开微信扫一扫 * 自定义头部
 
-![wxapp](/wxapp/juzi.jpg)
+![wxapp](/juzi.jpg)
 
 
 ### 目录结构
